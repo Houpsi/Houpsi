@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi there 👋
+## 💬 About me
+### 👩‍💻 I am Hélène HOUPLAIN
+- 🔭 I’m currently studying at EPITECH, Lille (2028 promotion), I'm currently leraning the C language by doing some concrete project that you might see on my repositories.
 
-<!--
-**Houpsi/Houpsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Technologies that I use
+![Static Badge](https://img.shields.io/badge/C-black?style=for-the-badge&logo=C&logoColor=white&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=white&labelColor=black&color=black)
+![](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)  
+![](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=Bash&logoColor=white&labelColor=black&color=black)
 
-Here are some ideas to get you started:
+### 🎯 My goals
+- To improve my skills in the languages that I already know  
+- Explore various subfields within computer science such as artificial intelligence or data science, to gain a broader understanding of the industry landscape
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✉️ How to contact me  
+Email: helene.houplain@epitech.eu  
+Linkedin : [Hélène HOUPLAIN](https://www.linkedin.com/in/h%C3%A9l%C3%A8ne-houplain-04a5a929a/)
