@@ -1,7 +1,7 @@
 # Hi there 👋
 ## 💬 About me
 ### 👩‍💻 I am Hélène HOUPLAIN
-- 🔭 I’m currently studying at EPITECH, Lille (2028 promotion), I'm currently leraning the C language by doing some concrete project that you might see on my repositories.
+- 🔭 I’m currently studying at EPITECH, Lille (2028 promotion), I'm currently learning the C language by doing some concrete project that you might see on my repositories.
 
 ### 💻 Technologies that I use
 ![Static Badge](https://img.shields.io/badge/C-black?style=for-the-badge&logo=C&logoColor=white&labelColor=black&color=black)
